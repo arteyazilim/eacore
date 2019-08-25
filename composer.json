@@ -1,5 +1,5 @@
 {
-  "name": "eadesignro/module-eacore",
+  "name": "arteyazilim/module-eacore",
   "description": "The module with the menu and other features needed by other modules developed by EaDesign",
   "type": "magento2-module",
   "version": "0.2.11",
@@ -35,6 +35,6 @@
     "sebastian/phpcpd": "~3.0.0",
     "squizlabs/php_codesniffer": "3.3.1"
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "prefer-stable": true
 }
